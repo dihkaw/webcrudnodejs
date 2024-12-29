@@ -1,7 +1,14 @@
-# Apps Try Out LKSN Cloud Computing
+# Web CRUD dengan Node js
+
 ## Install Dependency
-* >npm install --prefix
+```bash
+npm install --prefix
+npm install -g pm2
+```
+
 ## Running Program
-* >npm run start-prod
+```bash
+npm run start-prod
+```
 ## Test Program
-* >Open Browser and access your ip + port, ex: localhost:8000
+Open Browser and access your ip + port, ex: localhost:8000
